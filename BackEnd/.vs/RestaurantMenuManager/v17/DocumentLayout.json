@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFA5754-2E0E-4956-8089-CDF9F1581923}|RestaurantMenuManager.Tests\\RestaurantMenuManager.Tests.csproj|c:\\users\\hp\\desktop\\tts-projects\\restaurantmenumanager\\restaurantmenumanager.tests\\services\\dishservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFA5754-2E0E-4956-8089-CDF9F1581923}|RestaurantMenuManager.Tests\\RestaurantMenuManager.Tests.csproj|solutionrelative:restaurantmenumanager.tests\\services\\dishservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|c:\\users\\hp\\desktop\\tts-projects\\restaurantmenumanager\\restaurantmenumanager\\services\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|solutionrelative:restaurantmenumanager\\services\\dishservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|c:\\users\\hp\\desktop\\tts-projects\\restaurantmenumanager\\restaurantmenumanager\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|solutionrelative:restaurantmenumanager\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|c:\\users\\hp\\desktop\\tts-projects\\restaurantmenumanager\\restaurantmenumanager\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|solutionrelative:restaurantmenumanager\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|c:\\users\\hp\\desktop\\tts-projects\\restaurantmenumanager\\restaurantmenumanager\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D82B38D-5C81-44B6-B855-BABE5411503D}|RestaurantMenuManager\\RestaurantMenuManager.csproj|solutionrelative:restaurantmenumanager\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DishServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager.Tests\\Services\\DishServiceTests.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuManager.Tests\\Services\\DishServiceTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager.Tests\\Services\\DishServiceTests.cs",
+              "RelativeToolTip": "RestaurantMenuManager.Tests\\Services\\DishServiceTests.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:27:17.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuManager\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Models\\Menu.cs",
+              "RelativeToolTip": "RestaurantMenuManager\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:13:48.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuManager\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Models\\Dish.cs",
+              "RelativeToolTip": "RestaurantMenuManager\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:44:07.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DishService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Services\\DishService.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuManager\\Services\\DishService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Services\\DishService.cs",
+              "RelativeToolTip": "RestaurantMenuManager\\Services\\DishService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:52:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuManager\\Controllers\\DishesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TTS-Projects\\RestaurantMenuManager\\RestaurantMenuManager\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "RestaurantMenuManager\\Controllers\\DishesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:49:49.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
